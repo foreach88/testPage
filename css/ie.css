@@ -1,0 +1,8 @@
+article input,
+article select{
+	line-height:42px;
+}
+
+input[type='submit']{
+	line-height:30px;
+}
